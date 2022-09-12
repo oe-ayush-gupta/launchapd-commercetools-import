@@ -98,6 +98,38 @@
             {
               "key": "sworks",
               "label": "S-Works"
+            },
+            {
+              "key": "stumpjumper",
+              "label": "Stumpjumper"
+            },
+            {
+              "key": "fuse",
+              "label": "Fuse"
+            },
+            {
+              "key": "turbo",
+              "label": "Turbo"
+            },
+            {
+              "key": "allez",
+              "label": "Allez"
+            },
+            {
+              "key": "shimano",
+              "label": "Shimano"
+            },
+            {
+              "key": "sram",
+              "label": "SRAM"
+            },
+            {
+              "key": "tektro",
+              "label": "Tektro"
+            },
+            {
+              "key": "kmc",
+              "label": "KMC"
             }
           ]
         },
@@ -167,10 +199,6 @@
               "label": "one Size"
             },
             {
-              "key": "xxs",
-              "label": "XXS"
-            },
-            {
               "key": "xs",
               "label": "XS"
             },
@@ -191,168 +219,52 @@
               "label": "XL"
             },
             {
-              "key": "xxl",
-              "label": "XXL"
+              "key": "s1",
+              "label": "S1"
             },
             {
-              "key": "xxxl",
-              "label": "XXXL"
+              "key": "s2",
+              "label": "S2"
             },
             {
-              "key": "34",
-              "label": "34"
+              "key": "s3",
+              "label": "S3"
             },
             {
-              "key": "34.5",
-              "label": "34.5"
+              "key": "s4",
+              "label": "S4"
             },
             {
-              "key": "35",
-              "label": "35"
+              "key": "s5",
+              "label": "S5"
             },
             {
-              "key": "35.5",
-              "label": "35.5"
+              "key": "s6",
+              "label": "S6"
             },
             {
-              "key": "36",
-              "label": "36"
+              "key": "49",
+              "label": "49"
             },
             {
-              "key": "36.5",
-              "label": "36.5"
+              "key": "52",
+              "label": "52"
             },
             {
-              "key": "37",
-              "label": "37"
+              "key": "54",
+              "label": "54"
             },
             {
-              "key": "37.5",
-              "label": "37.5"
+              "key": "56",
+              "label": "56"
             },
             {
-              "key": "38",
-              "label": "38"
+              "key": "58",
+              "label": "58"
             },
             {
-              "key": "38.5",
-              "label": "38.5"
-            },
-            {
-              "key": "39",
-              "label": "39"
-            },
-            {
-              "key": "39.5",
-              "label": "39.5"
-            },
-            {
-              "key": "40",
-              "label": "40"
-            },
-            {
-              "key": "40.5",
-              "label": "40.5"
-            },
-            {
-              "key": "41",
-              "label": "41"
-            },
-            {
-              "key": "41.5",
-              "label": "41.5"
-            },
-            {
-              "key": "42",
-              "label": "42"
-            },
-            {
-              "key": "42.5",
-              "label": "42.5"
-            },
-            {
-              "key": "43",
-              "label": "43"
-            },
-            {
-              "key": "43.5",
-              "label": "43.5"
-            },
-            {
-              "key": "44",
-              "label": "44"
-            },
-            {
-              "key": "44.5",
-              "label": "44.5"
-            },
-            {
-              "key": "45",
-              "label": "45"
-            },
-            {
-              "key": "45.5",
-              "label": "45.5"
-            },
-            {
-              "key": "46",
-              "label": "46"
-            },
-            {
-              "key": "46.5",
-              "label": "46.5"
-            },
-            {
-              "key": "47",
-              "label": "47"
-            },
-            {
-              "key": "47.5",
-              "label": "47.5"
-            },
-            {
-              "key": "70",
-              "label": "70"
-            },
-            {
-              "key": "75",
-              "label": "75"
-            },
-            {
-              "key": "80",
-              "label": "80"
-            },
-            {
-              "key": "85",
-              "label": "85"
-            },
-            {
-              "key": "90",
-              "label": "90"
-            },
-            {
-              "key": "95",
-              "label": "95"
-            },
-            {
-              "key": "100",
-              "label": "100"
-            },
-            {
-              "key": "105",
-              "label": "105"
-            },
-            {
-              "key": "110",
-              "label": "110"
-            },
-            {
-              "key": "115",
-              "label": "115"
-            },
-            {
-              "key": "120",
-              "label": "120"
+              "key": "61",
+              "label": "61"
             }
           ]
         },
