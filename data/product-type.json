@@ -130,6 +130,38 @@
             {
               "key": "kmc",
               "label": "KMC"
+            },
+            {
+              "key": "praxis",
+              "label": "Praxis"
+            },
+            {
+              "key": "rovalterra",
+              "label": "Roval Terra"
+            },
+            {
+              "key": "dtswiss",
+              "label": "DT Swiss"
+            },
+            {
+              "key": "eliminator",
+              "label": "Eliminator"
+            },
+            {
+              "key": "specialized",
+              "label": "Specialized"
+            },
+            {
+              "key": "butcher",
+              "label": "Butcher"
+            },
+            {
+              "key": "presta",
+              "label": "Presta"
+            },
+            {
+              "key": "na",
+              "label": "N/A"
             }
           ]
         },
